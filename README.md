@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align = "center">Hi there 👋</h1>
 
 - 🔭 I’m currently Learning this
 - 💬 Ask me about nothing
