@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently Learning this
+- 💬 Ask me about nothing
+- 📫 How to reach me at my email
+- ⚡ Fun fact: funny
+
+
 <!--
 **ecorbero/ecorbero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
