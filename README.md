@@ -1,6 +1,4 @@
 <a href="https://ecorbero.github.io">
-<center>
    <img alt="Portfolios" src="https://raw.githubusercontent.com/ecorbero/ecorbero.github.io/main/assets/assets/Captura.PNG"
    width=350" height="235">
-</center>
 </a>
